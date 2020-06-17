@@ -4,12 +4,18 @@ We use [eslint](https://eslint.org/) for linting (and prettier for formatting, d
 
 ## Setting up
 
-Install eslint and our config
+Install eslint
 
 ```bash
-npm install -g eslint github:davidlaroche/eslint-config-davidlaroche # globally
+npm install -g eslint # globally
 # or
-npm install --save-dev eslint github:davidlaroche/eslint-config-davidlaroche # locally
+npm install --save-dev eslint # locally
+```
+
+Install davidlaroche config
+
+```bash
+npm install --save-dev  github:davidlaroche/eslint-config-davidlaroche
 ```
 
 ## Web Project
