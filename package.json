@@ -1,0 +1,25 @@
+{
+	"name": "eslint-config-davidlaroche",
+	"version": "1.0.0",
+	"description": "DavidLaroche ESLint config, based on eslint:recommended.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/davidlaroche/eslint-config-davidlaroche"
+	},
+	"keywords": [
+		"eslint",
+		"eslintconfig",
+		"config",
+		"javascript",
+		"styleguide"
+	],
+	"author": "Emile Silas SARE",
+	"license": "MIT",
+	"dependencies": {
+		"strip-json-comments": "1.0.2"
+	}
+}
